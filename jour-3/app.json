@@ -1,0 +1,12 @@
+{
+  "name": "jour-3",
+  "displayName": "jour-3",
+  "expo": {
+    "name": "jour-3",
+    "slug": "jour-3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
